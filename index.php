@@ -9,7 +9,7 @@
             }
 
             h1 {
-                color: white;
+                color: #333;
                 text-align: center;
             }
 
